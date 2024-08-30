@@ -34,5 +34,4 @@ Email ID: [ssakshi@umd.edu](mailto:ssakshi@umd.edu)
   <tr><td><b>Apr 2023:</b></td><td>Our paper was accepted to ACL 2023!</td></tr>
   <tr><td><b>Mar 2023:</b></td><td>Serving as a reviewer for Interspeech 2023!</td></tr>
   <tr><td><b>Feb 2023:</b></td><td>3 papers accepted to ICASSP 2023! Pre-prints under the research section.</td></tr>
-  <tr><td><b>Feb 2023:</b></td><td>Serving as a reviewer for ACL 2023!</td></tr>
   <tr><td><b>Jan 2023:</b></td><td>Submitted one paper to ACL 2023!</td></tr>
