@@ -1,0 +1,26 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Sakshi
+full_name: Sakshi
+email: ssakshi@umd.edu
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ssakshi.github.io/" # the base hostname & protocol for your site
+github_username:  Sakshi113
+# twitter_username: SreyanG
+linkedin_username: sakshi113
+include: ['_pages']
+# footer-links-active:
+#   stackoverflow: true
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-seo-tag
+  - jekyll-redirect-from
