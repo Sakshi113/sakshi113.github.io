@@ -6,17 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Sreyan Ghosh
-full_name: Sreyan Ghosh
-email: gsreyan@gmail.com
-email2: sreyang@umd.edu
-email3: sreyan.ghosh@btech.christuniversity.in
+title: Sakshi
+full_name: Sakshi
+email: ssakshi@umd.edu
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sreyan88.github.io/" # the base hostname & protocol for your site
-github_username:  Sreyan88
-twitter_username: SreyanG
-linkedin_username: sreyan-ghosh
+url: "https://ssakshi.github.io/" # the base hostname & protocol for your site
+github_username:  Sakshi113
+# twitter_username: SreyanG
+linkedin_username: sakshi113
 include: ['_pages']
 # footer-links-active:
 #   stackoverflow: true
