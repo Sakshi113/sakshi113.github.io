@@ -5,10 +5,8 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src="{{ site.baseurl }}/assets/sakshi_web.jpeg">
 
+My name is Sakshi. I am currently a 1st year C.S. Ph.D. student at the University of Maryland, College Park, advised by [Prof. Ramani Duraiswami](https://scholar.google.com/citations?user=RCmfc0cAAAAJ&hl=en) at [PIRL Lab](https://www.umiacs.umd.edu/labs/pirl/) and [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on audio and language processing. Currently I am working on improving complex reasoning tasks in audio and natural language models. I completed my M.S. from UMass Amherst in 2022 where I worked with [Prof. Ethan Zuckerman](https://scholar.google.com/citations?user=1lvJXKQAAAAJ&hl=en) on Extreme Speech detection on YouTube. Previous to UMass, I served as a Software Engineer II at [Cisco Systems, Bangalore](http://cisco.com). My primary work at Cisco involved building network assurance software systems for Cisco's Service Provider customers. My research interests lie in audio processing with deep learning, with a special focus on efficiency, the use of language as a tool to solve audio processing tasks, and
 
-I am Sakshi. I am currently a 1st year C.S. Ph.D. student at the University of Maryland, College Park (UMCP). At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on *resource-efficient deep learning*. I apply my research to various problems in speech, language and audio processing.  
-
-I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) about my personal experiences and topics related to speech and text processing. I am always open to collaborations, and please feel free to drop me a mail!
 
 CV / Resume: [link]({{ site.url }}/assets/Sakshi_CV.pdf)  
 Email ID: [ssakshi@umd.edu](mailto:ssakshi@umd.edu)  
@@ -23,15 +21,10 @@ Email ID: [ssakshi@umd.edu](mailto:ssakshi@umd.edu)
 <col width="630px">
   <tr><td><b>Aug 2024:</b></td><td>Joined C.S. Ph.D. program at UMD!.</td></tr>
   <tr><td><b>June 2024:</b></td><td>We release GAMA, an LLM with strong audio-understanding capabilities! Details under the Research section.</td></tr>
-  <tr><td><b>May 2024:</b></td><td>1 paper accepted to InterSpeech 2024!</td></tr>
-  <tr><td><b>May 2024:</b></td><td>2 papers accepted to ACL 2024!</td></tr>
-  <tr><td><b>March 2024:</b></td><td>2 papers accepted to NAACL 2024!</td></tr>
   <tr><td><b>Jan 2024:</b></td><td>1 paper accepted to ICLR 2024!</td></tr>
+  <tr><td><b>March 2024:</b></td><td>2 papers accepted to NAACL 2024!</td></tr>
+  <tr><td><b>May 2024:</b></td><td>2 papers accepted to ACL 2024!</td></tr>
   <tr><td><b>Dec 2023:</b></td><td>Attended EMNLP 2023 in-person in Singapore!</td></tr>
-  <tr><td><b>Oct 2023:</b></td><td>2 papers accepted to EMNLP 2023! Details under the research section.</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Started as a Research Scientist Intern at Adobe Research!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to Interspeech 2023!</td></tr>
-  <tr><td><b>Apr 2023:</b></td><td>Our paper was accepted to ACL 2023!</td></tr>
-  <tr><td><b>Feb 2023:</b></td><td>3 papers accepted to ICASSP 2023! Pre-prints under the research section.</td></tr>
-  <tr><td><b>Jan 2023:</b></td><td>Submitted one paper to ACL 2023!</td></tr>
+  <tr><td><b>Oct 2023:</b></td><td>1 paper accepted to EMNLP 2023! Details under the research section.</td></tr>
+  <tr><td><b>Aug 2022:</b></td><td>Joined M.S. C.S. program at UMass Amherst!.</td></tr>
+  <tr><td><b>July 2022:</b></td><td>1 paper accepted to InterSpeech 2022!</td></tr>
