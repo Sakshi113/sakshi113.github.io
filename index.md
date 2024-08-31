@@ -3,7 +3,8 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 6px;" src="{{ site.url }}/assets/IMG_7210.jpg">
+<img style="float: right; width: 35%; padding: 6px;" src="{{ site.baseurl }}/assets/sakshi_2.jpg">
+
 
 I am Sakshi. I am currently a 1st year C.S. Ph.D. student at the University of Maryland, College Park (UMCP). At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on *resource-efficient deep learning*. I apply my research to various problems in speech, language and audio processing.  
 
