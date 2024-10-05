@@ -19,7 +19,10 @@ Email ID: [ssakshi@umd.edu](mailto:ssakshi@umd.edu)
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>Sept 2024:</b></td><td>[EH-MAM] (https://openreview.net/pdf?id=N06hbHULIP) and [GAMA](https://arxiv.org/pdf/2406.11768) are accepted to EMNLP 2024!</td></tr>
+  <td>
+    <a href="https://openreview.net/pdf?id=N06hbHULIP">EH-MAM</a> and 
+    <a href="https://arxiv.org/pdf/2406.11768">GAMA</a> are accepted to EMNLP 2024!
+  </td>
   <tr><td><b>Aug 2024:</b></td><td>Joined C.S. Ph.D. program at UMD!.</td></tr>
   <tr><td><b>June 2024:</b></td><td>We release GAMA, an LLM with strong audio-understanding capabilities! Details under the Research section.</td></tr>
   <tr><td><b>Jan 2024:</b></td><td>1 paper accepted to ICLR 2024!</td></tr>
