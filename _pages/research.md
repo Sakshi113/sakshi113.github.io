@@ -30,7 +30,7 @@ Ashish Seth\*, Ramaneswaran S\*, *S Sakshi*\*, Sonal Kumar, Dinesh Manocha
 ### Accepted Papers
 
 * [EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning](https://openreview.net/pdf?id=N06hbHULIP)    
-Ashish Seth\*, Ramaneswaran S\*, *S Sakshi*, Sonal Kumar, Dinesh Manocha 
+Ashish Seth\*, Ramaneswaran S\*, *S Sakshi*, Sonal Kumar, Dinesh Manocha
 **EMNLP 2024** 
 
 * [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](https://arxiv.org/abs/2406.11768)    
