@@ -15,7 +15,7 @@ I am always open to collaborations, and please feel free to drop me a mail!
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=F_-YNVAAAAAJ) 
 
 
-### Pre-prints  
+<!-- ### Pre-prints  
 
 * [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](https://arxiv.org/abs/2406.11768)    
 Sreyan Ghosh\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, *S Sakshi*, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
@@ -24,10 +24,17 @@ Sreyan Ghosh\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh T
 
 * [EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning](https://drive.google.com/file/d/1ISRRZrUdHF7h1QreBiJzxBlcEA6Otr3n/view)    
 Ashish Seth\*, Ramaneswaran S\*, *S Sakshi*\*, Sonal Kumar, Dinesh Manocha  
-**Pre-print**  
+**Pre-print**   -->
 
 
 ### Accepted Papers
+
+* [EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning](https://openreview.net/pdf?id=N06hbHULIP)    
+Ashish Seth\*, Ramaneswaran S\*, *S Sakshi*, Sonal Kumar, Dinesh Manocha 
+
+* [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](https://arxiv.org/abs/2406.11768)    
+Sreyan Ghosh\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, *S Sakshi*, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
+[Project Website](https://sreyan88.github.io/gamaaudio/)  / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
 
 * [ASPIRE: Language-Guided Augmentation for Robust Image Classification](https://arxiv.org/abs/2308.10103)  
 *Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, *S Sakshi*, Utkarsh Tyagi, Dinesh Manocha  
