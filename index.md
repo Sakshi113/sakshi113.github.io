@@ -25,8 +25,8 @@ Email ID: [ssakshi@umd.edu](mailto:ssakshi@umd.edu)
     We released MMAU, the most comprehesive audio understanding and reasoning benchmark yet! Check it out <a href="https://sakshi113.github.io/mmau_homepage/">here !</a>
   </td>
   </tr> 
-  <td><b>Sept 2024:</b></td>
   <tr>
+  <td><b>Sept 2024:</b></td>
   <td>
     <a href="https://openreview.net/pdf?id=N06hbHULIP">EH-MAM</a> and 
     <a href="https://arxiv.org/pdf/2406.11768">GAMA</a> are accepted to EMNLP 2024!
