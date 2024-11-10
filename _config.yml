@@ -11,7 +11,7 @@ full_name: Sakshi
 email: ssakshi@umd.edu
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ssakshi.github.io/" # the base hostname & protocol for your site
+url: "https://sakshi113.github.io/" # the base hostname & protocol for your site
 github_username:  Sakshi113
 # twitter_username: SreyanG
 linkedin_username: sakshi113
