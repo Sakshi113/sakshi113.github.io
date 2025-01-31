@@ -9,7 +9,7 @@ My name is Sakshi. I am currently a 1st year C.S. Ph.D. student at the Universit
 
 
 <!-- CV / Resume: [link]({{ site.url }}/assets/Sakshi_CV.pdf)   -->
-<a href="/assets/Sakshi_CV.pdf">CV / Resume</a>
+CV / Resume: <a href="/assets/Sakshi_CV.pdf">link</a><br>
 Email ID: [ssakshi@umd.edu](mailto:ssakshi@umd.edu)  
 
 <!-- #### I am always open to collaborations! Please fill out [this](https://docs.google.com/forms/d/1kQRJekonn8YglxIPH9OPcJCuI7NQK-E1wAywNAsSMoM/) form here and I would reach out if I have a project aligned with your interests. Thank You! -->
