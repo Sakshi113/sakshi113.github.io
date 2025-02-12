@@ -31,7 +31,7 @@ Ashish Seth\*, Ramaneswaran S\*, *S Sakshi*\*, Sonal Kumar, Dinesh Manocha
 
 * [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmarks](https://www.arxiv.org/abs/2410.19168)   
 S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, *Sreyan Ghosh*\*, Dinesh Manocha  
-[Project Website](https://sakshi113.github.io/mmau_homepage/) 
+[Project Website](https://sakshi113.github.io/mmau_homepage/)  
 **ICLR 2025** <span style="color:red">**(Spotlight)**</span>
 
 * [EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning](https://openreview.net/pdf?id=N06hbHULIP)    
