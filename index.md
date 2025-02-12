@@ -20,7 +20,7 @@ Email ID: [ssakshi@umd.edu](mailto:ssakshi@umd.edu)
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>Jan 2025:</b></td><td><a href="https://openreview.net/forum?id=TeVAZXr3yv">MMAU</a> got accepted to ICLR 2025!</td></tr>
+  <tr><td><b>Jan 2025:</b></td><td><a href="https://openreview.net/forum?id=TeVAZXr3yv">MMAU</a> got accepted to ICLR 2025 (Spotlight)!</td></tr>
   <tr>
   <td><b>Sept 2024:</b></td>
   <td>
